@@ -2,9 +2,6 @@ let sizeX = 800,
     sizeY = 800;
 let points = []
 
-// the line youre looking for is 151, read the comments there
-// and come back for more after
-
 class Point {
   
   constructor(x, y) {
